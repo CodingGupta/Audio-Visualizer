@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@aflr/audiostack": "^1.1.11"
+  }
+}
